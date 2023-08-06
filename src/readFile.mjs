@@ -3,7 +3,6 @@ import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 
 const filename = fileURLToPath(import.meta.url);
-// const dirname = path.dirname(filename);
 
 const getPath = (fileName) => path.join(fileName);
 
