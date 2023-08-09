@@ -1,5 +1,6 @@
 # hosts_test
 codemaster_test
+Задание: https://github.com/cyboman32/traf_exercise
 
 # Инструкция по запуску
 
